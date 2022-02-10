@@ -32,3 +32,9 @@ header div{
     align-items: center;
   
 }
+.page{
+    
+    background-image: url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
