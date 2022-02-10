@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+header h1{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    font-size: 15px;
+    gap: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    list-style-type: none;    
+}
+header div a{
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+}
+header div{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    text-decoration: none;
+    align-items: center;
+  
+}
