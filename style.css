@@ -7,7 +7,7 @@ header h1{
     display: flex;
     padding: 15px;
     justify-content: center;
-    font-size: 15px;
+    font-size: 5vh;
     gap: 20px;
     color: white;
     text-decoration: none;
@@ -15,12 +15,12 @@ header h1{
 }
 header{
     width: 100%;
-    height: 70px;
+    height: 15vh;
     background-color: black;
     list-style-type: none;    
 }
 header div a{
-    font-size: 10px;
+    font-size: 3vh;
     color: white;
     text-decoration: none;
 }
@@ -30,7 +30,6 @@ header div{
     justify-content: space-around;
     text-decoration: none;
     align-items: center;
-  
 }
 .page{
     
