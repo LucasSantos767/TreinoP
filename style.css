@@ -50,3 +50,14 @@ main{
 main p{
     color: white;
 }
+footer{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer h1{
+    font-size: 20px;
+}
