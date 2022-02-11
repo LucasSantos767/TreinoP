@@ -41,12 +41,13 @@ header div{
     width: 100vw;
 }
 main{
-    width: 50%;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px;
     margin-left: 25%;
+    margin-right: 25%;
     background-color: gray;
 }
 main p{
