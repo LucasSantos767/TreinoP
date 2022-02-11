@@ -38,3 +38,15 @@ header div{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+main{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-left: 25%;
+    background-color: gray;
+}
+main p{
+    color: white;
+}
